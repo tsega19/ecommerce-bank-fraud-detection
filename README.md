@@ -1,3 +1,19 @@
-# Fraud Detection System
+# Fraud Detection using Machine Learning
 
-A fraud detection system for e-commerce and banking transactions using advanced machine learning techniques and real-time monitoring. This project implements multiple ML models to detect fraudulent activities in both e-commerce and credit card transactions, featuring geolocation analysis, transaction pattern recognition, and an interactive dashboard for fraud insights.
+This repository contains a comprehensive guide to building a fraud detection system using machine learning. The system is designed to detect fraudulent transactions in a dataset of credit card transactions.
+
+## Requirements
+
+* Python 3.6+
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Seaborn
+* Plotly
+
+## Installation
+
+To install the required packages, run the following command in your terminal:
+
+
